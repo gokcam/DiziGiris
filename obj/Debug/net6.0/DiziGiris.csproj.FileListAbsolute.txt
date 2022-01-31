@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\bin\Debug\net6.0\DiziGiris.exe
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\bin\Debug\net6.0\DiziGiris.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\bin\Debug\net6.0\DiziGiris.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\bin\Debug\net6.0\DiziGiris.dll
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\bin\Debug\net6.0\ref\DiziGiris.dll
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\bin\Debug\net6.0\DiziGiris.pdb
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.dll
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\ref\DiziGiris.dll
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.pdb
+C:\Users\90542\Desktop\Pratikler Devam\DiziGiris\obj\Debug\net6.0\DiziGiris.genruntimeconfig.cache
